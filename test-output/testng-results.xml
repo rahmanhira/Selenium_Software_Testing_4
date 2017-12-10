@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="11585" started-at="2017-12-08T04:17:16Z" finished-at="2017-12-08T04:17:27Z">
+  <suite name="Default suite" duration-ms="9962" started-at="2017-12-10T16:03:57Z" finished-at="2017-12-10T16:04:07Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="11585" started-at="2017-12-08T04:17:16Z" finished-at="2017-12-08T04:17:27Z">
+    <test name="Default test" duration-ms="9962" started-at="2017-12-10T16:03:57Z" finished-at="2017-12-10T16:04:07Z">
       <class name="tests.test2">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.test2@47c62251]" name="setUp" is-config="true" duration-ms="11144" started-at="2017-12-07T23:17:16Z" finished-at="2017-12-07T23:17:27Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.test2@1e88b3c]" name="setUp" is-config="true" duration-ms="9493" started-at="2017-12-10T11:03:57Z" finished-at="2017-12-10T11:04:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="createFBAccountWith18less()[pri:0, instance:tests.test2@47c62251]" name="createFBAccountWith18less" duration-ms="421" started-at="2017-12-07T23:17:27Z" finished-at="2017-12-07T23:17:27Z">
+        <test-method status="PASS" signature="createFBAccountWith18less()[pri:0, instance:tests.test2@1e88b3c]" name="createFBAccountWith18less" duration-ms="450" started-at="2017-12-10T11:04:07Z" finished-at="2017-12-10T11:04:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createFBAccountWith18less -->
