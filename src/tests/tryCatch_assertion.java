@@ -1,5 +1,6 @@
 package tests;
 
+
 import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.By;
@@ -70,8 +71,9 @@ public class tryCatch_assertion {
 			driver.quit();
 
 		}
+}
 
 
 
 	
-}
+
